@@ -1,4 +1,4 @@
---Updated Version of Draconic Reactor Control 
+
 --DISCLAIMER i do not own this code i just wanna fork to 1.19.2
 
 --Credits the OG creator --> https://github.com/acidjazz/drmon
